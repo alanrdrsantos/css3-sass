@@ -1,0 +1,9 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.wrapper input.field {
+  padding: 10px;
+  border: solid 2px #999;
+  margin: 10px;
+}

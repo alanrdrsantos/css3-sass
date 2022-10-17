@@ -1,0 +1,31 @@
+$laranja-hcode:#ff760c;
+$laranja-hcode-transparent: rgba($laranja-hcode, .33);
+
+body {
+    margin:0;
+    font-family: sans-serif;
+    background-color: blue;
+    header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: $laranja-hcode;
+        height: 100px;
+        $laranja-hcode: #ff0000;
+        h1 {
+            margin: 0;
+        }
+        h2 {
+            background-color: #FFF;
+            padding: 20px;
+            border-radius: 30px;
+            color: $laranja-hcode;
+
+        }
+    }
+    section {
+        background-color: $laranja-hcode-transparent;
+        height: calc(100vh - 200px);
+    }
+    
+}
