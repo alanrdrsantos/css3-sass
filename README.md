@@ -2,6 +2,8 @@
 
 Exercícios do curso de CSS3 e SASS feito na Udemy pela Hacode Treinamentos.
 
+https://www.udemy.com/course/curso-css-3-com-sass/
+
 ### Screenshots
 
 
